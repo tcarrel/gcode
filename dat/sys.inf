@@ -1,0 +1,4 @@
+#Another comment to test
+#cpu speed in Hz
+cpuspeed 2500000000
+maximums 12 0 5
